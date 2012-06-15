@@ -7,4 +7,6 @@ More info
 ---------
 http://www.symfony.com/
 
-
+Notes
+-----
+ln -s ../../../../../twitter/bootstrap/v2/ vendor/bundles/Mopa/Bundle/BootstrapBundle/Resources/bootstrap
