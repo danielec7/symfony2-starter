@@ -1,4 +1,10 @@
-symfony2-starter
-================
+My bootstrap Symfony Distrubution
+=================================
 
-my bootstrap symfony2 distribution
+This is a Symfony Distribution I use to quickly startup projects.
+
+More info
+---------
+http://www.symfony.com/
+
+

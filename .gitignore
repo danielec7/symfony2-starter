@@ -10,3 +10,9 @@ web/bundles/*
 
 # Configuration files
 app/config/parameters.ini
+
+#my
+
+/web/css/
+/web/js/
+.DS_Store
